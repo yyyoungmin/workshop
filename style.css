@@ -21,6 +21,16 @@
   background-color: #f1edf7;
 }
 
+.hover-preview {
+  position: fixed;
+  width: 250px;   /* 모바일에서는 좀 크게 */
+  z-index: 999;
+}
+
+.hover-preview img {
+  width: 100%;
+  height: auto;
+}
 
 body {
     margin: 20px;
