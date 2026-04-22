@@ -4,6 +4,10 @@
  box-sizing: border-box;
 }
 
+body {
+  background-color: white;
+}
+
 
 .table-pink thead th {
   background-color: #f8e8e8;
